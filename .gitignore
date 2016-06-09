@@ -1,3 +1,37 @@
+# Java
+# ----
+*.class
+*.jar
+*.orig
+
+# Python
+# ------
+*.pyc
+
+# NetBeans
+# --------
+nb-configuration.xml
+nbactions.xml
+
+# Eclipse
+# -------
+.cproject
+.project
+.pydevproject
+.settings
+.classpath
+.MySCMServerInfo
+*.iml
+
+# Misc. files
+# -----------
+# *.log
+
+# Tests
+# -----
+SmaWeb/test-output/
+TasksFramework/test-output/
+*.epoch
 
 #ignore thumbnails created by windows
 Thumbs.db
