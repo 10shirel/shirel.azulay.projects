@@ -4,6 +4,12 @@
 *.jar
 *.orig
 
+target/
+classes/
+.metadata/
+.idea/
+
+
 # Python
 # ------
 *.pyc
