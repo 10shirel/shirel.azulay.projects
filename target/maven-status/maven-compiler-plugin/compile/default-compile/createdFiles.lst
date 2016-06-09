@@ -1,9 +1,0 @@
-com\trusteer\monitor\RemoteFileChecker$FileDownloadResponseHandler.class
-com\trusteer\monitor\RemoteFile.class
-com\trusteer\monitor\RemoteFileChecker.class
-com\trusteer\monitor\BaseJob.class
-com\trusteer\monitor\Constants.class
-com\trusteer\monitor\FileMonitorApplication.class
-com\trusteer\monitor\utils\EmailConfiguration.class
-com\trusteer\monitor\utils\SendEmail$1.class
-com\trusteer\monitor\utils\SendEmail.class

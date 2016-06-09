@@ -1,6 +1,0 @@
-isFirstIteration=0
-url_http://dev.abc.com/test/1.txt=sha1_5d03965084a5db13c178cbb1ffc120b360353685
-url_http://dev.abc.com/test/3.txt=sha1_6aacef66b6a418f03b56ec5066e8b82e408a042c
-url_http://50.62.131.26/Studio.jsp=sha1_99d3099885f981fc8a6ccd2b32de22fab6f47803
-url_http://test.abc.com/Studio.jsp=sha1_b3b6cb05e97335b4cfc37338e5f22f8dc30ffb97
-url_http://dev.abc.com/test/2.txt=sha1_b8c91ec547c1181d9ec64a843713d66e4a61384b
